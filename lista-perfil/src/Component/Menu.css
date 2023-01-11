@@ -1,0 +1,35 @@
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(147, 73, 165);
+    display: flex; 
+    flex-direction:row; 
+    justify-content: center; 
+}
+
+.navegador{
+    width: 75%;
+    margin: 10px 0 0 30px; 
+    padding: 5px 10px; 
+    display: flex; 
+    flex-direction:row; 
+    justify-content:space-between;
+    text-decoration: none; 
+}
+
+.usuario{
+    width: 25%; /*Ancho*/
+    display: flex; /*Establece el tipo del elemento HTML*/
+    justify-content:flex-end; /*DirecciÃ³n del elemento*/
+    margin-right: 55px; /*Margen derecho*/
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.imagen{
+    border-radius: 50%;
+}

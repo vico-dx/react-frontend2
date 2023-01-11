@@ -1,0 +1,10 @@
+.container{
+    background-color: aqua;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.img{
+    width: 40%;
+    border-radius: 50%;
+}
